@@ -1,0 +1,98 @@
+%!LW recipe=XeLaTeXmk
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{outlines}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsthm}
+\usepackage{tabularray}
+\usepackage{minted}
+\usepackage[colorlinks=false, allcolors=blue]{hyperref}
+\usepackage{cleveref}
+\UseTblrLibrary{booktabs}
+\DeclarePairedDelimiter{\set}{\{}{\}}
+\DeclarePairedDelimiter{\paren}{(}{)}
+\graphicspath{ {./images/} }
+
+\newcounter{fullrefcounter}
+\newcommand*{\fullref}[1]{%
+\addtocounter{fullrefcounter}{1}%
+\label{--ref-\thefullrefcounter}%
+\ifthenelse{\equal{\getpagerefnumber{--ref-\thefullrefcounter}}{\getpagerefnumber{#1}}}
+  {
+    \hyperref[{#1}]{\Cref*{#1} \nameref*{#1}}
+  }
+  {% false case
+    \hyperref[{#1}]{第 \pageref*{#1} 页 \Cref*{#1} \nameref*{#1}}
+  }
+}
+
+
+% Packages some may find useful.
+% \usepackage{graphicx,epsf,psfig,pstricks,subfigure,psfrag,rotating}
+
+% New NIH specifications
+% font = Arial, Helvetica, Palatino Linotype, or Georgia typeface
+% font size 11 or larger
+% margin = at least one-half inch
+% Use at least one-half inch margins for all pages.  
+% No information should appear in the margins, including the PI's name and page numbers.
+
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+
+\usepackage[width=7.0in, height=9.5in, head=0.0in, foot=0.0in, headsep=0.0in]{geometry}
+%% This controls margins.  Can't go over width=7.5in, height=10.0in.  
+%% top-bottom margins = (11-height)/2  left-right margins = (8.5-width)/2
+
+\usepackage{setspace} % useful in changing vertical spacing temporarily.
+
+\usepackage{natbib} % more control over how references appear within text.
+\bibpunct{[}{]}{,}{n}{}{} % like so.
+%% use \citep{ref} instead of \cite{ref} in text.
+
+\usepackage{sectsty} % can change font, size of the section headings.  
+\sectionfont      {\fontsize{12pt}{3}\usefont{OT1}{phv}{b}{sc}\selectfont}
+\subsectionfont   {\fontsize{11pt}{3}\usefont{OT1}{phv}{b}{n}\selectfont}
+\subsubsectionfont{\fontsize{11pt}{3}\usefont{OT1}{phv}{m}{n}\selectfont}
+
+\renewcommand{\thesection}{\Alph{section}} % so that section headings use A B C instead 1 2 3
+\renewcommand{\baselinestretch}{1}
+
+\renewcommand\refname{\section{Literature Cited} \vspace{-1em}} 
+%% This changes ``Reference'' to ``Literature Cited''.  
+
+\newcommand{\inden}[1]{\mbox{} \hspace{#1} } % Force horizontal spaces.  
+
+% \date{\today}
+\begin{document}
+
+{
+  \hfill
+  \textbf{}
+  \hfill
+}
+
+\section*{Specific Aims}
+
+As a large number of cancer patients are at risk of cardiotoxicity due to their treatment methods, an innovative approach to monitor symptoms and promote a healthy lifestyle is required. The proposed project aims to adapt an existing digital health system, talk2care, to provide integrated symptom monitoring and health lifestyle information support specifically for cancer patients. This will help in the prevention of cardiotoxicity, further improving their quality of life.
+
+\subsection*{Specific Aim 1: Adapt Existing talk2care System for Cardiotoxicity Prevention}
+We will adapt the talk2care system for cancer patients experiencing high cardiotoxicity risk. This will involve integrating clinician and patient feedback through a participatory design and conducting formative research to ensure the system meets patients' needs. The adapted system will capture cardiac events, and not only cardiotoxicity data. It will also aim to educate patients on their cardiotoxicity risks and prevention methods.
+
+An initial proposal of system functions and contents will be created, incorporating existing educational materials and guidelines. The system will then be evaluated from the perspective of physicians, followed by an evaluation from cancer patients for their perspective. Based on gathered feedback, revisions will be made to finalize the patient-centered system.
+
+\subsection*{Specific Aim 2: Design System Features and Interface}
+We will design accessible and intuitive system features and interface to ensure high usability and user engagement. This phase will integrate the needs and preferences of high-risk cardiotoxicity cancer patients. The goal is to create a system that is easy-to-use, engaging, and effectively delivers the necessary information to the patients.
+
+\subsection*{Specific Aim 3: Conduct Pilot User Study} 
+
+For a period of 6 weeks, 15 patients with a high risk of cardiotoxicity will use the newly adapted system. The pilot study will evaluate system use, usability, feasibility of the system in daily life, and its potential effects on participants' health outcomes. Adherence to symptom reporting, alerts sent, and usage patterns of the patient-education function will be monitored. The System Usability Scale (SUS) will be applied as a reliable tool to assess the system's usability from the patients’ perspective.
+
+This study will provide insight into the aspects of the system that need improvement and verify whether the system can potentially enhance patient engagement, awareness, quality of life, and reduce the risk of cardiotoxicity.
+
+\end{document}
