@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.11)  28 MAR 2024 14:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.11)  28 MAR 2024 21:06
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -716,33 +716,41 @@ LaTeX Info: Redefining \Cpagerefrange on input line 2370.
 LaTeX Info: Redefining \labelcref on input line 2370.
 LaTeX Info: Redefining \labelcpageref on input line 2370.
 Package cleveref Info: `amsthm' support loaded on input line 3026.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen350
+\enit@toks=\toks44
+\enit@inbox=\box100
+\enit@count@id=\count369
+\enitdp@description=\count370
 )
-\c@fullrefcounter=\count369
+\c@fullrefcounter=\count371
  (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count370
-\Gm@cntv=\count371
-\c@Gm@tempcnt=\count372
-\Gm@bindingoffset=\dimen350
-\Gm@wd@mp=\dimen351
-\Gm@odd@mp=\dimen352
-\Gm@even@mp=\dimen353
-\Gm@layoutwidth=\dimen354
-\Gm@layoutheight=\dimen355
-\Gm@layouthoffset=\dimen356
-\Gm@layoutvoffset=\dimen357
-\Gm@dimlist=\toks44
+\Gm@cnth=\count372
+\Gm@cntv=\count373
+\c@Gm@tempcnt=\count374
+\Gm@bindingoffset=\dimen351
+\Gm@wd@mp=\dimen352
+\Gm@odd@mp=\dimen353
+\Gm@even@mp=\dimen354
+\Gm@layoutwidth=\dimen355
+\Gm@layoutheight=\dimen356
+\Gm@layouthoffset=\dimen357
+\Gm@layoutvoffset=\dimen358
+\Gm@dimlist=\toks45
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip63
-\bibsep=\skip64
+\bibhang=\skip64
+\bibsep=\skip65
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count373
+\c@NAT@ctr=\count375
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
@@ -759,36 +767,36 @@ runsystem(which pygmentize && touch significant-aims.aex)...executed.
 
 runsystem(rm significant-aims.aex)...executed.
 
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 72.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 75.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (./significant-aims.aux)
 \openout1 = `significant-aims.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 75.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -798,7 +806,7 @@ Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2023-02-02 L3 Experimental document command parser
 ))
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 75.
  (./significant-aims.out) (./significant-aims.out)
 \@outlinefile=\write6
 \openout6 = `significant-aims.out'.
@@ -838,24 +846,46 @@ Package hyperref Info: Link coloring OFF on input line 72.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 80.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 83.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-Missing character: There is no ’ ("2019) in font phvr8t!
-[1
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 90.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+) [1
+
+]
+Overfull \hbox (11.1962pt too wide) in paragraph at lines 156--157
+\T1/phv/m/n/10.95 The pro-posed sys-tem fa-cil-i-tates seam-less in-for-ma-tion shar-ing be-tween the sys-tem and health-care providers.
+ []
+
+
+Overfull \hbox (7.42087pt too wide) in paragraph at lines 156--157
+\T1/phv/m/n/10.95 With con-ver-sa-tion sum-maries and symp-tom re-ports read-ily ac-ces-si-ble via the clin-i-cian dash-board, providers
+ []
+
+[2] [3] (./significant-aims.bbl
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
+
+Underfull \hbox (badness 1253) in paragraph at lines 14--17
+[]\T1/phv/m/n/10.95 Kathleen M Stur-geon, Lei Deng, Shirley M Blueth-mann, Shouhao Zhou, Daniel M Tri-filetti,
+ []
+
+) [4
 
 ] (./significant-aims.aux)
 Package rerunfilecheck Info: File `significant-aims.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: C1DAEAA7FF14D118A38C3489F0238C82;4306.
  ) 
 Here is how much of TeX's memory you used:
- 29640 strings out of 476683
- 589766 string characters out of 5804047
- 1852018 words of memory out of 5000000
- 49454 multiletter control sequences out of 15000+600000
- 526932 words of font info for 43 fonts, out of 8000000 for 9000
+ 30028 strings out of 476683
+ 596716 string characters out of 5804047
+ 1856018 words of memory out of 5000000
+ 49830 multiletter control sequences out of 15000+600000
+ 529044 words of font info for 45 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 100i,5n,104p,597b,353s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,5n,104p,755b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on significant-aims.xdv (1 page, 4512 bytes).
+Output written on significant-aims.xdv (4 pages, 22772 bytes).

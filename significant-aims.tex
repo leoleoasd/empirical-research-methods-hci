@@ -13,6 +13,7 @@
 \usepackage{minted}
 \usepackage[colorlinks=false, allcolors=blue]{hyperref}
 \usepackage{cleveref}
+\usepackage{enumitem}
 \UseTblrLibrary{booktabs}
 \DeclarePairedDelimiter{\set}{\{}{\}}
 \DeclarePairedDelimiter{\paren}{(}{)}
@@ -61,7 +62,9 @@
 \subsubsectionfont{\fontsize{11pt}{3}\usefont{OT1}{phv}{m}{n}\selectfont}
 
 \renewcommand{\thesection}{\Alph{section}} % so that section headings use A B C instead 1 2 3
-\renewcommand{\baselinestretch}{1}
+% \renewcommand{\baselinestretch}{1}
+
+% \linespread{1.2}
 
 \renewcommand\refname{\section{Literature Cited} \vspace{-1em}} 
 %% This changes ``Reference'' to ``Literature Cited''.  
@@ -79,20 +82,104 @@
 
 \section*{Specific Aims}
 
-As a large number of cancer patients are at risk of cardiotoxicity due to their treatment methods, an innovative approach to monitor symptoms and promote a healthy lifestyle is required. The proposed project aims to adapt an existing digital health system, talk2care, to provide integrated symptom monitoring and health lifestyle information support specifically for cancer patients. This will help in the prevention of cardiotoxicity, further improving their quality of life.
+An estimated 8\% of cancer patients are at risk of cardiotoxicity due to their treatment methods \cite{limaCardiotoxicityCancerPatients2022}, necessitating an innovative approach to monitor symptoms and promote preventative health behaviors effectively. The proposed project aims to adapt an existing digital health system, Talk2Care, to provide integrated symptom monitoring and health lifestyle information support specifically tailored for cancer patients. This integration is crucial for the prevention of cardiotoxicity and further enhancing patients' quality of life by equipping them with knowledge and tools for proactive health management.
 
-\subsection*{Specific Aim 1: Adapt Existing talk2care System for Cardiotoxicity Prevention}
-We will adapt the talk2care system for cancer patients experiencing high cardiotoxicity risk. This will involve integrating clinician and patient feedback through a participatory design and conducting formative research to ensure the system meets patients' needs. The adapted system will capture cardiac events, and not only cardiotoxicity data. It will also aim to educate patients on their cardiotoxicity risks and prevention methods.
+\subsection*{Specific Aim 1: Adapt and Refine Talk2Care System for Cardiotoxicity Monitoring and Prevention} 
+We will adapt the Talk2Care system, originally a LLM-powered communication system to support patient-provider communication, to focus on the needs of cancer patients experiencing high cardiotoxicity risks. This adaptation will involve: 
+\begin{itemize}[topsep=0pt,itemsep=0pt,parsep=0pt]
+  \item Integrating clinician (estimated a total of 5 oncologists and cardiologists) and patient feedback (up to 15 patients) through a participatory design. 
+  \item Conducting formative research to ensure the system aligns with the specific needs of this patient group. 
+  \item Expanding system capabilities to capture and monitor cardiac events beyond traditional cardiotoxicity data. 
+  \item Providing targeted educational content on cardiotoxicity risks and prevention methods, leveraging existing guidelines and materials. 
+\end{itemize} 
+An iterative process of system evaluation will be utilized, first from physicians and then from cancer patients, to finalize a patient-centered solution.
 
-An initial proposal of system functions and contents will be created, incorporating existing educational materials and guidelines. The system will then be evaluated from the perspective of physicians, followed by an evaluation from cancer patients for their perspective. Based on gathered feedback, revisions will be made to finalize the patient-centered system.
+\subsection*{Specific Aim 2: Design User-Centric Features and Interface}
 
-\subsection*{Specific Aim 2: Design System Features and Interface}
-We will design accessible and intuitive system features and interface to ensure high usability and user engagement. This phase will integrate the needs and preferences of high-risk cardiotoxicity cancer patients. The goal is to create a system that is easy-to-use, engaging, and effectively delivers the necessary information to the patients.
+We will focus on creating accessible, intuitive system features and an interface that ensures high usability and patient engagement. By acknowledging the preferences and needs of patients at high risk of cardiotoxicity, the goal is to deliver an easy-to-use system that effectively provides critical information and tools for managing health.
 
 \subsection*{Specific Aim 3: Conduct Pilot User Study} 
 
-For a period of 6 weeks, 15 patients with a high risk of cardiotoxicity will use the newly adapted system. The pilot study will evaluate system use, usability, feasibility of the system in daily life, and its potential effects on participants' health outcomes. Adherence to symptom reporting, alerts sent, and usage patterns of the patient-education function will be monitored. The System Usability Scale (SUS) will be applied as a reliable tool to assess the system's usability from the patients’ perspective.
 
-This study will provide insight into the aspects of the system that need improvement and verify whether the system can potentially enhance patient engagement, awareness, quality of life, and reduce the risk of cardiotoxicity.
+For 6 weeks, 15 patients with a high risk of cardiotoxicity will engage with the proposed system. This pilot study aims to evaluate: \begin{itemize}[topsep=0pt,itemsep=0pt,parsep=0pt]
+  \item System usage patterns and user engagement. 
+  \item The feasibility of integrating the system into daily life. 
+  \item The system's immediate impact on health outcomes like patient self-reported quality of life, patient activation score and awareness regarding cardiotoxicity, assessed using validated measures such as the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30). 
+\end{itemize} 
+Metrics such as adherence to symptom reporting, alerts issued, and engagement with educational content will be closely monitored. The System Usability Scale (SUS) will be employed to quantitatively assess the system's usability from the patients' perspective.
+
+This comprehensive study will not only identify areas for further system improvement but also verify the system's effectiveness in enhancing patient engagement, increasing awareness, and potentially reducing the risk of cardiotoxicity. It aims to establish definitive evidence on the Talk2Care system's impact on specific health outcomes, providing a solid foundation for broader implementation.
+
+\section{Significance}
+
+\subsection{Cardiotoxicity in Cancer Treatment:  A Silent Threat} The nexus between
+cancer treatment and the resultant risk of cardiotoxicity presents a significant
+health challenge. It is estimated that up to 8\% of patients receiving certain
+types of cancer therapies are at risk of developing cardiotoxicity, impacting
+their cardiac function and, consequently, their overall quality of life \cite{limaCardiotoxicityCancerPatients2022}. This
+issue underscores the crucial need for innovative monitoring and intervention
+strategies to mitigate these risks and enhance patient outcomes \cite{alemanCardiovascularDiseaseCancer2014}.
+
+\subsection{The Gap in Current Monitoring and Intervention Approaches} While current
+clinical practices involve regular monitoring of cardiac function in patients
+undergoing cancer treatment, there exists a notable gap in continuous,
+patient-centric monitoring, and intervention. Traditional methods often rely on
+periodic assessments that may not fully capture the dynamic nature of
+cardiotoxicity risk. Additionally, there is a lack of integrated systems that
+empower patients with information and tools to actively participate in
+preventing cardiotoxicity.
+
+\subsection{The Potential of Digital Health Solutions in Cardiotoxicity Prevention}
+Digital health technologies, especially those enabling symptom monitoring and
+health information delivery, hold vast potential in addressing the identified
+gaps in cardiotoxicity management . These solutions can offer continuous,
+real-time monitoring, personalized health information, and proactive
+intervention strategies, potentially transforming the landscape of
+cardiotoxicity prevention in cancer patients \cite{sturgeonPopulationbasedStudyCardiovascular2019}.
+
+\section{Innovation}
+
+\subsection{The Incorporation of Smartwatch Technology for Real-Time Biometric Data Collection}
+
+The proposed system introduces the innovative use of smartwatch technology to gather real-time biometric data, critical indicators such as heart rate and electrocardiogram (ECG). This integration fosters an enriched narrative of the patient's state of health and advances the documenting of significant physiological changes.
+
+\subsection{Enhanced Daily System-Patient Interactions with Biometric Data}
+
+Daily check-ins not only provide a touchpoint for symptom inquiry and patient queries but are also enhanced with real-time biometric data. This enhancement allows the system to combine conversational information with physiological data to offer a more comprehensive understanding of the patient's health status. This synergistic approach presents a robust method to identify and track cardiotoxicity symptoms better.
+
+\subsection{Centralized Reporting and Data Analysis}
+
+The addition of a specialized clinician dashboard is another innovative feature. It provides a centralized, user-friendly interface for reviewing patients' interaction logs, symptom reports, and biometric data. This platform streamlines the complex data generated from various sources, facilitating a smooth data analysis process and providing critical insights into patient progress and health trends.
+
+\subsection{Amplified System-Clinician Communication through Integrated Dashboard}
+
+The proposed system facilitates seamless information sharing between the system and healthcare providers. With conversation summaries and symptom reports readily accessible via the clinician dashboard, providers gain a clear and concise understanding of the patient's health status. This transparency fosters informed decision-making and the provision of timely and pertinent care, ultimately improving health outcomes.
+
+\subsection{Personalized Patient Engagement and Support Informed by Biometric Data}
+
+The system's innovative feature of utilizing real-time biometric data from smartwatch devices enhances its potential to offer personalized patient engagement. Leveraging this data helps tailor engagement strategies, heightens the relevancy of interaction, and fosters improved patient adherence, affirming this proposed system as a beacon of innovation in the field of digital health.
+
+\section{Approach}
+
+\subsection{Rigor and Replicability in Research}
+
+To ensure scientific rigor and reproduce-ability, our proposed research will fully embrace open science practices. All protocols, collected raw data, and analysis codes will be publicly accessible after the study's completion. Additionally, every step of our study will be pre-registered on a comprehensive clinical trials registry.
+
+\subsection{Implementatino of the system}
+
+The system implementation will be participatory, combining system design and user experience enhancements with technical considerations. The system will be designed to facilitate easy patient-system communication while allowing for effective capture of relevant user metrics. A specialized dashboard will offer healthcare providers a clear report of patients' interaction summaries and symptom reports.
+
+\subsection{Pilot Usability Studies}
+
+To ensure the system's usability, a comprehensive pilot usability study will involve selected participants interacting with the system for a specified duration. Participants for these studies will be selected based on specific inclusion criteria, and potential candidates will undergo a validated recruitment and screening process. The study will leverage robust measures and tools to evaluate the functionality and usability of the proposed system.
+
+\subsection{In-home Evaluation}
+
+To evaluate our system's real-world efficacy, we will conduct an in-home Randomized Controlled Trial (RCT). The RCT will involve participants fulfilling specific selection criteria and will be recruited employing the process established in the usability study. The participants will engage with the system over four weeks in their after-treatment recovery, with their health outcomes, system usability, and satisfaction measured using validated tools. Interim analyses will be conducted at the trial's midpoint to assess preliminary effects.
+
+\clearpage
+\appendix
+\bibliographystyle{plain}
+\bibliography{references}
 
 \end{document}

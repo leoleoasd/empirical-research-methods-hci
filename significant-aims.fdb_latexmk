@@ -1,17 +1,27 @@
 # Fdb version 4
-["xdvipdfmx"] 1711651758 "significant-aims.xdv" "significant-aims.pdf" "significant-aims" 1711651758 0
-  "significant-aims.xdv" 1711651758 4512 e54155571f892d6dfddac01d763d7dd2 "xelatex"
+["bibtex significant-aims"] 1711674247 "significant-aims.aux" "significant-aims.bbl" "significant-aims" 1711674415 0
+  "./references.bib" 1711673817 662257 22426182d14337a138feb8938e9dc7bb ""
+  "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "significant-aims.aux" 1711674415 3335 2185430be3f66738dba549433c3def24 "xelatex"
+  (generated)
+  "significant-aims.bbl"
+  "significant-aims.blg"
+  (rewritten before read)
+["xdvipdfmx"] 1711674415 "significant-aims.xdv" "significant-aims.pdf" "significant-aims" 1711674415 0
+  "significant-aims.xdv" 1711674415 22772 033c8bd3bc0e2363909662021ae48e05 "xelatex"
   (generated)
   "significant-aims.pdf"
   (rewritten before read)
-["xelatex"] 1711651757 "/Volumes/Code/empirical-research-methods-hci/significant-aims.tex" "significant-aims.xdv" "significant-aims" 1711651758 0
-  "/Volumes/Code/empirical-research-methods-hci/significant-aims.tex" 1711651757 5119 f6f9ff15b33ba9ceb69966b0ff6d542f ""
-  "/dev/null" 1711651758 0 d41d8cd98f00b204e9800998ecf8427e ""
+["xelatex"] 1711674414 "/Volumes/Code/empirical-research-methods-hci/significant-aims.tex" "significant-aims.xdv" "significant-aims" 1711674415 0
+  "/Volumes/Code/empirical-research-methods-hci/significant-aims.tex" 1711674414 12238 6fb98ffed62d358c155731cc1e1f47ca ""
+  "/dev/null" 1711674414 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1136768653 6628 34c39492c0adc454c1c199922bba8363 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvbc7t.tfm" 1136768653 2672 88159036c64e674fcd9515bc9c7052d4 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvr8c.tfm" 1136768653 1348 c311631dfec4123b7faa7f864709e626 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm" 1136768653 7040 b2bd27e2bfe6f6948cbc3239cae7444f ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm" 1136768653 7292 d408122871055bbc541d7280c154e210 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm" 1254269338 12056 7e13df7fe4cbce21b072ba7c4f4deb6e ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -106,6 +116,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty" 1678653221 55778 14d5c99aa26410e440820bb9ea5b8b3a ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty" 1678653221 71836 1a735454ad10692452eb2f2fc37f3865 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/cleveref/cleveref.sty" 1525128982 329481 7fc6b003158402a4c694bc0a1b729308 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty" 1674162139 43712 b5e8951fc13f42e748a253743534321f ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
@@ -153,6 +164,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1601326656 325 f9f16d12354225b7dd52a3321f085955 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1phv.fd" 1586716065 1679 51f99a09d5536398d3a0ad1d44df9625 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1phv.fd" 1586716065 1483 47067fbe7c3ffed1ede7aaa7b8549d7a ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1phv.fd" 1586716065 1181 ec0c641cd2e0fb69a449534a0279b5ca ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/sectsty/sectsty.sty" 1137110779 22423 d476012cd03f82f9475ad54ba6cd3267 ""
@@ -166,9 +178,10 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1686414554 10502847 c0be2c423fd0446b227a64f79f437fcc ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "significant-aims.aux" 1711651758 520 9c1a709c014649c32e70d4a7a33299d3 "xelatex"
-  "significant-aims.out" 1711651758 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "significant-aims.tex" 1711651757 5119 f6f9ff15b33ba9ceb69966b0ff6d542f ""
+  "significant-aims.aux" 1711674415 3335 2185430be3f66738dba549433c3def24 "xelatex"
+  "significant-aims.bbl" 1711674247 1393 87195bbc3fc06ebe52f309dc39a3eb32 "bibtex significant-aims"
+  "significant-aims.out" 1711674415 4306 c1daeaa7ff14d118a38c3489f0238c82 "xelatex"
+  "significant-aims.tex" 1711674414 12238 6fb98ffed62d358c155731cc1e1f47ca ""
   (generated)
   "significant-aims.aux"
   "significant-aims.log"
