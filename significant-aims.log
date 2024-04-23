@@ -1,15 +1,16 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.11)  28 MAR 2024 21:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.24)  22 APR 2024 22:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Volumes/Code/empirical-research-methods-hci/significant-aims.tex
-(/Volumes/Code/empirical-research-methods-hci/significant-aims.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+**/home/leo/code/empirical-research-methods-hci/significant-aims.tex
+(/home/leo/code/empirical-research-methods-hci/significant-aims.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
 \c@section=\count182
@@ -31,7 +32,7 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
  (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count189
@@ -47,7 +48,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
@@ -55,7 +56,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
+\@emptytoks=\toks18
 \ex@=\dimen143
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -93,21 +94,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count199
 \dspbrk@lvl=\count266
-\tag@help=\toks18
+\tag@help=\toks19
 \row@=\count267
 \column@=\count268
 \maxfields@=\count269
-\andhelp@=\toks19
+\andhelp@=\toks20
 \eqnshift@=\dimen146
 \alignsep@=\dimen147
 \tagshift@=\dimen148
 \tagwidth@=\dimen149
 \totwidth@=\dimen150
 \lineht@=\dimen151
-\@envbody=\toks20
+\@envbody=\toks21
 \multlinegap=\skip54
 \multlinetaggap=\skip55
-\mathdisplay@stack=\toks21
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -123,7 +124,7 @@ LaTeX Info: Redefining \] on input line 2954.
 \xmathstrut@box=\box53
 \xmathstrut@dim=\dimen159
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks22
+\pgfutil@everybye=\toks23
 \pgfutil@tempdima=\dimen160
 \pgfutil@tempdimb=\dimen161
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -150,10 +151,10 @@ File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks23
-\pgfkeys@temptoks=\toks24
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks25
+\pgfkeys@tmptoks=\toks26
 ))
 \pgf@x=\dimen164
 \pgf@y=\dimen165
@@ -171,9 +172,9 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \c@pgf@countb=\count272
 \c@pgf@countc=\count273
 \c@pgf@countd=\count274
-\t@pgf@toka=\toks26
-\t@pgf@tokb=\toks27
-\t@pgf@tokc=\toks28
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
 \pgf@sys@id@count=\count275
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
@@ -214,9 +215,9 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 \pgfmath@dimen=\dimen174
 \pgfmath@count=\count279
 \pgfmath@box=\box55
-\pgfmath@toks=\toks29
-\pgfmath@stack@operand=\toks30
-\pgfmath@stack@operation=\toks31
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count280
 )) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
@@ -299,8 +300,8 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen257
 \pgffor@skip=\dimen258
-\pgffor@stack=\toks32
-\pgffor@toks=\toks33
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
 )) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
@@ -353,9 +354,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count296
 \@thisrulewidth=\dimen280
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+Package: caption 2023/07/31 v3.6n Customizing captions (AR)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen281
 \captionmargin=\dimen282
 \caption@leftmargin=\dimen283
@@ -375,25 +376,25 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count299
-\float@exts=\toks34
+\float@exts=\toks35
 \float@box=\box65
-\@float@everytoks=\toks35
+\@float@everytoks=\toks36
 \@floatcapt=\box66
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks36
-\thm@bodyfont=\toks37
-\thm@headfont=\toks38
-\thm@notefont=\toks39
-\thm@headpunct=\toks40
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
 \thm@preskip=\skip57
 \thm@postskip=\skip58
 \thm@headsep=\skip59
-\dth@everypar=\toks41
+\dth@everypar=\toks42
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tabularray/tabularray.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
+Package: expl3 2023-08-29 L3 programming layer (loader) 
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
 \g__graphics_track_int=\count300
 \l__pdf_internal_box=\box67
 \g__pdf_backend_object_int=\count301
@@ -491,7 +492,7 @@ Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
 \l__tblr_cell_ht_dim=\dimen330
 \l__tblr_diag_box=\box91
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/minted/minted.sty
-Package: minted 2022/12/12 v2.7 Yet another Pygments shim for LaTeX
+Package: minted 2023/09/12 v2.8 Yet another Pygments shim for LaTeX
  (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -516,10 +517,10 @@ Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbat
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2023/01/19 line numbers on paragraphs v5.1
-Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+Invalid UTF-8 byte or sequence at line 292 replaced by U+FFFD.
 \linenopenalty=\count331
-\output=\toks42
+\output=\toks43
 \linenoprevgraf=\count332
 \linenumbersep=\dimen331
 \linenumberwidth=\dimen332
@@ -533,7 +534,7 @@ Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
 \bframesep=\dimen335
 \bframebox=\box93
 \linenoamsmath@ams@eqpen=\count338
-LaTeX Info: Redefining \\ on input line 3131.
+LaTeX Info: Redefining \\ on input line 3180.
 )
 \c@FV@TrueTabGroupLevel=\count339
 \c@FV@TrueTabCounter=\count340
@@ -559,7 +560,7 @@ LaTeX Info: Redefining \\ on input line 3131.
 \c@FV@BreakBufferDepth=\count350
 \FV@LineWidth=\dimen341
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/shellesc.sty
-Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package: shellesc 2023/04/15 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/ifplatform/ifplatform.sty
 Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
@@ -586,10 +587,10 @@ runsystem(uname -s > "significant-aims.w18")...executed.
 runsystem(rm -- "significant-aims.w18")...executed.
 
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count351
-\decimalpart=\count352
+\xs_counta=\count351
+\xs_countb=\count352
 )
-Package: xstring 2023/01/14 v1.85 String manipulations (CT)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip61
@@ -603,13 +604,13 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \minted@code=\write5
 \c@minted@FancyVerbLineTemp=\count353
 \c@minted@pygmentizecounter=\count354
-\@float@every@listing=\toks43
+\@float@every@listing=\toks44
 \c@listing=\count355
 )
 runsystem(mkdir -p _minted-significant-aims)...executed.
 
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
  (/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -621,7 +622,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
  (/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -633,28 +634,28 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count357
 \Hy@pagecounter=\count358
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count359
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 4060.
-Package hyperref Info: Hyper figures OFF on input line 4177.
-Package hyperref Info: Link nesting OFF on input line 4182.
-Package hyperref Info: Hyper index ON on input line 4185.
-Package hyperref Info: Plain pages OFF on input line 4192.
-Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Option `colorlinks' set `false' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4425.
+Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count360
  (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen347
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -664,13 +665,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count361
 \Field@Width=\dimen348
 \Fld@charsize=\dimen349
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -681,7 +682,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hxetex.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
+File: hxetex.def 2023-07-08 v7.01b Hyperref driver for XeTeX
  (/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
@@ -720,7 +721,7 @@ Package cleveref Info: `amsthm' support loaded on input line 3026.
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip63
 \enit@outerparindent=\dimen350
-\enit@toks=\toks44
+\enit@toks=\toks45
 \enit@inbox=\box100
 \enit@count@id=\count369
 \enitdp@description=\count370
@@ -742,7 +743,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen356
 \Gm@layouthoffset=\dimen357
 \Gm@layoutvoffset=\dimen358
-\Gm@dimlist=\toks45
+\Gm@dimlist=\toks46
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
@@ -763,7 +764,7 @@ LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
 )
-runsystem(which pygmentize && touch significant-aims.aex)...executed.
+runsystem(command -v pygmentize && touch significant-aims.aex)...executed.
 
 runsystem(rm significant-aims.aex)...executed.
 
@@ -784,7 +785,7 @@ LaTeX Font Info:    ... okay on input line 75.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 75.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 75.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
@@ -802,9 +803,9 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/ninecolors/ninecolors.sty
-Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2023-08-29 L3 Experimental document command parser
 ))
 Package hyperref Info: Link coloring OFF on input line 75.
  (./significant-aims.out) (./significant-aims.out)
@@ -850,18 +851,18 @@ LaTeX Font Info:    Trying to load font information for OT1+phv on input line 83
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 90.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 92.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 ) [1
 
 ]
-Overfull \hbox (11.1962pt too wide) in paragraph at lines 156--157
+Overfull \hbox (11.1962pt too wide) in paragraph at lines 162--163
 \T1/phv/m/n/10.95 The pro-posed sys-tem fa-cil-i-tates seam-less in-for-ma-tion shar-ing be-tween the sys-tem and health-care providers.
  []
 
 
-Overfull \hbox (7.42087pt too wide) in paragraph at lines 156--157
+Overfull \hbox (7.42087pt too wide) in paragraph at lines 162--163
 \T1/phv/m/n/10.95 With con-ver-sa-tion sum-maries and symp-tom re-ports read-ily ac-ces-si-ble via the clin-i-cian dash-board, providers
  []
 
@@ -869,23 +870,27 @@ Overfull \hbox (7.42087pt too wide) in paragraph at lines 156--157
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
 
-Underfull \hbox (badness 1253) in paragraph at lines 14--17
+Underfull \hbox (badness 1253) in paragraph at lines 39--42
 []\T1/phv/m/n/10.95 Kathleen M Stur-geon, Lei Deng, Shirley M Blueth-mann, Shouhao Zhou, Daniel M Tri-filetti,
  []
 
 ) [4
 
 ] (./significant-aims.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
 Package rerunfilecheck Info: File `significant-aims.out' has not changed.
-(rerunfilecheck)             Checksum: C1DAEAA7FF14D118A38C3489F0238C82;4306.
+(rerunfilecheck)             Checksum: 82BBEC5578E2E0C151AE45A3F3705E23;4269.
  ) 
 Here is how much of TeX's memory you used:
- 30028 strings out of 476683
- 596716 string characters out of 5804047
- 1856018 words of memory out of 5000000
- 49830 multiletter control sequences out of 15000+600000
- 529044 words of font info for 45 fonts, out of 8000000 for 9000
+ 29931 strings out of 475585
+ 590079 string characters out of 5773557
+ 1926422 words of memory out of 5000000
+ 50823 multiletter control sequences out of 15000+600000
+ 578239 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 100i,5n,104p,755b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,5n,107p,744b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on significant-aims.xdv (4 pages, 22772 bytes).
+Output written on significant-aims.xdv (4 pages, 27144 bytes).
